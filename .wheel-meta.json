@@ -1,0 +1,22 @@
+{
+  "wheel_id": 740,
+  "structure": "umbrella",
+  "slug": "toowoombahousepainting-106",
+  "project": "house-painting-services-toowoomba-glossary-828a9c9f7f97d3b4d695",
+  "parent_t1_ref": "toowoombahousepainting-152",
+  "node_role": "feeder",
+  "money_target": "toowoombahousepainting.com.au",
+  "primary_kw": "house painting services toowoomba glossary",
+  "intended_url": "https://sitesau.github.io/toowoombahousepainting-106/",
+  "tier": "T2",
+  "writeback_nonce": "2b8b3cb2ef771f2c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/house-painting-services-toowoomba-d527ef09ff26444e89b20c68b309b/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
